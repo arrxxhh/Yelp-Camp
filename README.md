@@ -1,4 +1,4 @@
-# Yelp-Camp
+# BanjaraBase
 A full-stack web application where users can discover, review, and share campgrounds.
 
 Features 🚀
